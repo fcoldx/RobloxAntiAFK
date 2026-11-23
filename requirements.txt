@@ -1,0 +1,2 @@
+# Runtime. Tkinter ships with the standard Windows Python installer.
+pywin32>=306
